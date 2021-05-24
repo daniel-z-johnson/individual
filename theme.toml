@@ -3,19 +3,13 @@
 
 name = "Indiviual"
 license = "MIT"
-licenselink = "https://github.com/yourname/yourtheme/blob/master/LICENSE"
-description = ""
-homepage = "http://example.com/"
-tags = []
-features = []
-min_version = "0.41"
+licenselink = "https://github.com/daniel-z-johnson/indiviual/blob/master/LICENSE"
+description = "A simple theme for Hugo"
+homepage = "https://github.com/daniel-z-johnson/indiviual"
+tags = ["home", "blog", "tags", "simple"]
+features = ["home", "blog", "tags", "simple"]
+min_version = "0.60"
 
 [author]
-  name = ""
+  name = "Daniel Z Johnson"
   homepage = ""
-
-# If porting an existing theme
-[original]
-  name = ""
-  homepage = ""
-  repo = ""
